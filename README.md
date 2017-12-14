@@ -1,3 +1,3 @@
 # ADS2017
 
-## Homework and project for ADS
+## Homework and project of applied data science
